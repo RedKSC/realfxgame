@@ -14,7 +14,7 @@ public class Main extends Application {
         primaryStage.setTitle("Hello World");
         primaryStage.setScene(new Scene(root, 300, 275));
         primaryStage.show();
-        System.out.print("text by nolan");
+        System.out.print("Kai has taken over this test mwahaha");
     }
 
 
