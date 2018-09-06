@@ -7,13 +7,14 @@ import javafx.scene.Scene;
 import javafx.stage.Stage;
 
 public class Main extends Application {
+    //YEET
     @Override
     public void start(Stage primaryStage) throws Exception{
         Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));
-        primaryStage.setTitle("All bow down for...");
+        primaryStage.setTitle("Hola como esta");
         primaryStage.setScene(new Scene(root, 300, 275));
         primaryStage.show();
-        System.out.print("Galen, king of memes");
+        System.out.print("YEEEEEEEEEEET");
     }
 
 
