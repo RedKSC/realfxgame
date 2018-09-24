@@ -1,7 +1,4 @@
 package sample;
 
-public class stackException extends Exception {
-
-
-
+public class stackException extends Exception{
 }
