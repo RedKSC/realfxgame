@@ -2,7 +2,7 @@ package sample;
 
 public class Hanoi{
     private static int x = 8;
-    //choice of eac
+    //choose how many tiles to start with
     private static StackInt stack1;
     private static StackInt stack2;
     private static StackInt stack3;
