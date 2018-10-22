@@ -1,8 +1,8 @@
 package sample;
-import java.awt.event.ActionEvent;
+//import java.awt.event.ActionEvent;
 
 public class Controller {
-    public void pressButton(ActionEvent event) {
-        System.out.println("Hello World");
-    }
+    //public void pressButton(ActionEvent event) {
+        //System.out.println("Hello World");
+    //}
 }
